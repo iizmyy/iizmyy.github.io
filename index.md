@@ -1,4 +1,4 @@
-## Welcome to Izmt Pages
+## Welcome to Izmy Pages
 
 You can use the [editor on GitHub](https://github.com/iizmyy/iizmyy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
